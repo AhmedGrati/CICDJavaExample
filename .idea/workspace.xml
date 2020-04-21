@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f693cadb-0f8e-46d4-a30e-f6475061b2e0" name="Default Changelist" comment="" />
+    <list default="true" id="f693cadb-0f8e-46d4-a30e-f6475061b2e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CICD/Person.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587501460005</updated>
-      <workItem from="1587501467290" duration="684000" />
+      <workItem from="1587501467290" duration="1288000" />
     </task>
     <servers />
   </component>
